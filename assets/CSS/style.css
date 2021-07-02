@@ -1,0 +1,7 @@
+body{
+    background-image: url(../Images/paysage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Pour image stocker, (../img/image_de_fond.jpg) *
+le .. avant le dossier est un retour en arrière de deux dossier par rapport au dossier css pour aller au dossier image/
